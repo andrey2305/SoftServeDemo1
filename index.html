@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
+	<link rel="stylesheet" href="./style.css">
+	<link rel="stylesheet" href="./css/slider.css">
+	<link rel="stylesheet" href="./css/modal.css">
+	<link rel="stylesheet" href="./css/card.css">
+	<link rel="stylesheet" href="./css/form.css">
+	<link rel="stylesheet" href="./css/media.css">
+
+	<link rel="stylesheet" href="./css/lib/slick-theme.css">
+	<link rel="stylesheet" href="./css/lib/slick.css">
+
+	<link rel="stylesheet" href="./css/lib/sweetalert2.min.css">
+
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+	<title>Document</title>
+</head>
+<body>
+	<div class="wrapper" id="wr">
+		<div class="add-btn"></div>
+		<div class="login">
+			<form id="form_login" autocomplete="off" onsubmit="return validateForm()" class="logIn">
+				<label class="lblInp m-btm-40" for="login">
+					<input type="text" id="login">
+					<label for="login">Login</label>
+					<i class="fa fa-user" aria-hidden="true"></i>
+				</label>
+				<label class="lblInp" for="password">
+					<input type="password" id="password">
+					<label for="password">Password</label>
+					<i class="fa fa-lock" aria-hidden="true"></i>
+				</label>
+				<input id="submit_login" class="btn_submit" type="button" value="LogIn">
+			</form>
+			<div class="iconExit"></div>
+			<div class="iconKey"></div>
+			<div class="form__container"></div>
+		</div>
+		<div class="slide-control">
+			<div class="sl__btn-prev prev"></div>
+			<div class="select-year">
+				<form action="">
+					<input type="numberz" autocomplete="off" id="search-input" placeholder="Year">
+					<button type="submit" class="search-btn"><i class="fas fa-search"></i></button>
+				</form>
+			</div>
+			<div class="sl__btn-next next"></div>
+		</div>
+		<div class="main">
+			<div class="sl center" id="slider"></div>
+		</div>
+	</div>
+	<div class="overlay js-overlay-campaing">
+			<div class="popup js-popup-campaing" id="popup"></div>
+	</div>
+
+	<div class="addEvent_wrapper">
+		<div class="add-event-form">
+			<div class="close-addform"></div>
+			<form id="form_add" onsubmit="return addEvent(this);" action="" class="addEvent">
+				<h2 id="captionForm">Event Info</h2>
+				<div class="add-main-info">
+					<div class="add-info">
+						<label class="lblInp m-btm-40" for="caption">
+							<input type="text" id="caption" name="nameEvent" autocomplete="false">
+							<label for="caption">Caption Event</label>
+						</label>
+						<label class="lblInp m-btm-40" for="location">
+							<input type="text" name="place" id="location"/>
+							<label for="location">Location</label>
+						</label>
+						<label class="lblInp" for="date">
+							<input type="date" class="date" name="dateTime" id="date">
+							<label for="date">Date</label>
+						</label>
+					</div>
+					<div class="add-description">
+						<label for="des">Description</label>
+						<textarea id="des" name="description" aria-controls="false"></textarea>
+					</div>
+				</div>
+				<div class="add-speakers m-btm-40">
+					<h2>Speaker</h2>
+					<fieldset>
+						<div class="row-speaker-info">
+							<label class="lblInp m-btm-40" for="name">
+								<input type="text" name="name" id="name" autocomplete="false">
+								<label for="name">Name</label>
+							</label>
+							<label class="lblInp m-btm-40" for="surname">
+								<input type="text" name="surname" id="surname">
+								<label for="surname">Surname</label>
+							</label>
+						</div>
+						<div class="row-speaker-info">
+							<label class="lblInp m-btm-40" for="social">
+								<input type="text" name="social" id="social">
+								<label for="social">Social Link</label>
+							</label>
+							<label class="lblInp m-btm-40" for="photo">
+								<input type="text" name="photo" id="photo">
+								<label for="photo">Photo Link</label>
+							</label>
+						</div>
+					</fieldset>
+					<!-- <div class="btn-add-speaker">+</div> -->
+				</div>
+				<input class="btn_submit btn_addEvent" type="submit" value="Add Event">
+			</form>
+		</div>
+	</div>
+	
+	<script type="text/javascript" src="./js/lib/jquery-2.2.4.min.js"></script>
+	<!-- <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script> -->
+	
+	<!-- <script src="https://www.gstatic.com/firebasejs/5.5.1/firebase.js"></script> -->
+	<script src="https://www.gstatic.com/firebasejs/5.5.1/firebase-app.js"></script>
+	<script src="https://www.gstatic.com/firebasejs/3.1.0/firebase-database.js"></script>
+	<script type="text/javascript" src="./js/firebaseConfig.js"></script>
+
+	<script src="./js/lib/slick.min.js"></script>
+	<script src="./js/lib/sweetalert2.all.min.js"></script>
+
+
+	<script src="./js/eventsList.js"></script>
+	<script src="./js/getCount.js"></script>
+	<script src="./js/slideTemplate.js"></script>
+	<script src="./js/speakersList.js"></script>
+	<script src="./js/modal.js"></script>
+	<script src="./js/logIn.js"></script>
+	<script src="./js/addEvent.js"></script>
+	<script src="./js/slider.js"></script>
+	<script src="./index.js"></script>
+
+</body>
+</html>

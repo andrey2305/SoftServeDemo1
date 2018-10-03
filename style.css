@@ -1,0 +1,32 @@
+*{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	list-style: none;
+	box-sizing: border-box;
+	outline: none;
+	font-family: 'Roboto', sans-serif;
+
+}
+
+body{
+	user-select: none;
+	
+}
+
+h1{
+	font-size: 5rem;
+	text-align: center;
+}
+
+.wrapper{
+	background: url('./images/bg.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	display: flex;
+	height: 100vh;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}

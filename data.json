@@ -1,0 +1,570 @@
+[{
+			"year": 2011,
+			"events": [{
+					"nameEvent": "Magento Meet-UP Lviv",
+					"dateTime": "26 OCT",
+					"speakers": [{
+							"name": "Andrew",
+							"surname": "Kuzmichov",
+							"avatar": "./images/andr.jpg"
+						},
+						{
+							"name": "Yuri",
+							"surname": "Abramovich",
+							"avatar": "./images/yuri.jpg"
+						},
+						{
+							"name": "Ivan",
+							"surname": "Bilous",
+							"avatar": "./images/ivan.jpg"
+						}
+					],
+					"place": "Lviv Shevchenka 110 St.",
+					"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae at cumque dignissimos ex ratione, corporis natus sapiente vel ullam accusamus!"
+				},
+				{
+					"nameEvent": "Magento Meet-UP Lviv",
+					"dateTime": "26 OCT",
+					"speakers": [{
+							"name": "Andrew",
+							"surname": "Kuzmichov",
+							"avatar": "./images/andr.jpg"
+						},
+						{
+							"name": "Yuri",
+							"surname": "Abramovich",
+							"avatar": "./images/yuri.jpg"
+						},
+						{
+							"name": "Ivan",
+							"surname": "Bilous",
+							"avatar": "./images/ivan.jpg"
+						}
+					],
+					"place": "Lviv Shevchenka 110 St.",
+					"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae at cumque dignissimos ex ratione, corporis natus sapiente vel ullam accusamus!"
+				}
+			]
+		},
+		{
+			"year": 2012,
+			"events": [{
+					"nameEvent": "Dev Ops Meet-UP Chernivtsi",
+					"dateTime": "25 JUN",
+					"speakers": [{
+							"name": "Andrew",
+							"surname": "Kuzmichov",
+							"avatar": "./images/andr.jpg"
+						},
+						{
+							"name": "Yuri",
+							"surname": "Abramovich",
+							"avatar": "./images/yuri.jpg"
+						},
+						{
+							"name": "Ivan",
+							"surname": "Bilous",
+							"avatar": "./images/ivan.jpg"
+						}
+					],
+					"place": "Chernivtsi Holovna 12 St.",
+					"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae at cumque dignissimos ex ratione, corporis natus sapiente vel ullam accusamus!"
+				},
+				{
+					"nameEvent": "Magento Meet-UP Lviv",
+					"dateTime": "26 OCT",
+					"speakers": [{
+							"name": "Andrew",
+							"surname": "Kuzmichov",
+							"avatar": "./images/andr.jpg"
+						},
+						{
+							"name": "Yuri",
+							"surname": "Abramovich",
+							"avatar": "./images/yuri.jpg"
+						},
+						{
+							"name": "Ivan",
+							"surname": "Bilous",
+							"avatar": "./images/ivan.jpg"
+						}
+					],
+					"place": "Lviv Shevchenka 110 St.",
+					"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae at cumque dignissimos ex ratione, corporis natus sapiente vel ullam accusamus!"
+				},
+				{
+					"nameEvent": "Web UI Meet-UP 2 slide",
+					"dateTime": "03 JUL",
+					"speakers": [{
+							"name": "Andrew",
+							"surname": "Kuzmichov",
+							"avatar": "./images/andr.jpg"
+						},
+						{
+							"name": "Yuri",
+							"surname": "Abramovich",
+							"avatar": "./images/yuri.jpg"
+						},
+						{
+							"name": "Ivan",
+							"surname": "Bilous",
+							"avatar": "./images/ivan.jpg"
+						}
+					],
+					"place": "Chernivtsi Ruska 122 St.",
+					"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae at cumque dignissimos ex ratione, corporis natus sapiente vel ullam accusamus!"
+				},
+				{
+					"nameEvent": "Magento Meet-UP Lviv",
+					"dateTime": "31 JAN",
+					"speakers": [{
+							"name": "Andrew",
+							"surname": "Kuzmichov",
+							"avatar": "./images/andr.jpg"
+						},
+						{
+							"name": "Yuri",
+							"surname": "Abramovich",
+							"avatar": "./images/yuri.jpg"
+						},
+						{
+							"name": "Ivan",
+							"surname": "Bilous",
+							"avatar": "./images/ivan.jpg"
+						}
+					],
+					"place": "Lviv Shevchenka 110 St.",
+					"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae at cumque dignissimos ex ratione, corporis natus sapiente vel ullam accusamus!"
+				}
+			]
+		},
+		{
+			"year": 2013,
+			"events": [{
+					"nameEvent": "Dev Ops Meet-UP Chernivtsi",
+					"dateTime": "12 SEP",
+					"speakers": [{
+							"name": "Andrew",
+							"surname": "Kuzmichov",
+							"avatar": "./images/yuri.jpg"
+						},
+						{
+							"name": "Yuri",
+							"surname": "Abramovich",
+							"avatar": "./images/ivan.jpg"
+						},
+						{
+							"name": "Ivan",
+							"surname": "Bilous",
+							"avatar": "./images/andr.jpg"
+						}
+					],
+					"place": "Chernivtsi Holovna 12 St.",
+					"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae at cumque dignissimos ex ratione, corporis natus sapiente vel ullam accusamus!"
+				},
+				{
+					"nameEvent": "Magento Meet-UP Lviv",
+					"dateTime": "12 SEP",
+					"speakers": [{
+							"name": "Andrew",
+							"surname": "Kuzmichov",
+							"avatar": "./images/andr.jpg"
+						},
+						{
+							"name": "Yuri",
+							"surname": "Abramovich",
+							"avatar": "./images/yuri.jpg"
+						},
+						{
+							"name": "Ivan",
+							"surname": "Bilous",
+							"avatar": "./images/ivan.jpg"
+						}
+					],
+					"place": "Lviv Shevchenka 110 St.",
+					"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae at cumque dignissimos ex ratione, corporis natus sapiente vel ullam accusamus!"
+				}
+			]
+		},
+		{
+			"year": 2014,
+			"events": [{
+					"nameEvent": "Dev Ops Meet-UP Chernivtsi",
+					"dateTime": "12 SEP",
+					"speakers": [{
+							"name": "Andrew",
+							"surname": "Kuzmichov",
+							"avatar": "./images/andr.jpg"
+						},
+						{
+							"name": "Yuri",
+							"surname": "Abramovich",
+							"avatar": "./images/yuri.jpg"
+						},
+						{
+							"name": "Ivan",
+							"surname": "Bilous",
+							"avatar": "./images/ivan.jpg"
+						}
+					],
+					"place": "Chernivtsi Holovna 12 St.",
+					"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae at cumque dignissimos ex ratione, corporis natus sapiente vel ullam accusamus!"
+				},
+				{
+					"nameEvent": "Magento Meet-UP Lviv",
+					"dateTime": "26 OCT",
+					"speakers": [{
+							"name": "Andrew",
+							"surname": "Kuzmichov",
+							"avatar": "./images/andr.jpg"
+						},
+						{
+							"name": "Yuri",
+							"surname": "Abramovich",
+							"avatar": "./images/yuri.jpg"
+						},
+						{
+							"name": "Ivan",
+							"surname": "Bilous",
+							"avatar": "./images/ivan.jpg"
+						}
+					],
+					"place": "Lviv Shevchenka 110 St.",
+					"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae at cumque dignissimos ex ratione, corporis natus sapiente vel ullam accusamus!"
+				},
+				{
+					"nameEvent": "Web UI Meet-UP Chernivtsi",
+					"dateTime": "09 AUG",
+					"speakers": [{
+							"name": "Andrew",
+							"surname": "Kuzmichov",
+							"avatar": "./images/andr.jpg"
+						},
+						{
+							"name": "Yuri",
+							"surname": "Abramovich",
+							"avatar": "./images/yuri.jpg"
+						},
+						{
+							"name": "Ivan",
+							"surname": "Bilous",
+							"avatar": "./images/ivan.jpg"
+						}
+					],
+					"place": "Chernivtsi Ruska 122 St.",
+					"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae at cumque dignissimos ex ratione, corporis natus sapiente vel ullam accusamus!"
+				},
+				{
+					"nameEvent": "Magento Meet-UP Lviv",
+					"dateTime": "12 SEP",
+					"speakers": [{
+							"name": "Andrew",
+							"surname": "Kuzmichov",
+							"avatar": "./images/andr.jpg"
+						},
+						{
+							"name": "Yuri",
+							"surname": "Abramovich",
+							"avatar": "./images/yuri.jpg"
+						},
+						{
+							"name": "Ivan",
+							"surname": "Bilous",
+							"avatar": "./images/ivan.jpg"
+						}
+					],
+					"place": "Lviv Shevchenka 110 St.",
+					"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae at cumque dignissimos ex ratione, corporis natus sapiente vel ullam accusamus!"
+				}
+			]
+		},
+		{
+			"year": 2015,
+			"events": [{
+				"nameEvent": "Magento Meet-UP Lviv",
+				"dateTime": "12 SEP",
+				"speakers": [{
+						"name": "Andrew",
+						"surname": "Kuzmichov",
+						"avatar": "./images/andr.jpg"
+					},
+					{
+						"name": "Yuri",
+						"surname": "Abramovich",
+						"avatar": "./images/yuri.jpg"
+					},
+					{
+						"name": "Ivan",
+						"surname": "Bilous",
+						"avatar": "./images/ivan.jpg"
+					}
+				],
+				"place": "Lviv Shevchenka 110 St.",
+				"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae at cumque dignissimos ex ratione, corporis natus sapiente vel ullam accusamus!"
+			}]
+		},
+		{
+			"year": 2016,
+			"events": [{
+					"nameEvent": "Dev Ops Meet-UP Chernivtsi",
+					"dateTime": "12 SEP",
+					"speakers": [{
+							"name": "Andrew",
+							"surname": "Kuzmichov",
+							"avatar": "./images/andr.jpg"
+						},
+						{
+							"name": "Yuri",
+							"surname": "Abramovich",
+							"avatar": "./images/yuri.jpg"
+						},
+						{
+							"name": "Ivan",
+							"surname": "Bilous",
+							"avatar": "./images/ivan.jpg"
+						}
+					],
+					"place": "Chernivtsi Holovna 12 St.",
+					"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae at cumque dignissimos ex ratione, corporis natus sapiente vel ullam accusamus!"
+				},
+				{
+					"nameEvent": "Magento Meet-UP Lviv",
+					"dateTime": "26 OCT",
+					"speakers": [{
+							"name": "Andrew",
+							"surname": "Kuzmichov",
+							"avatar": "./images/andr.jpg"
+						},
+						{
+							"name": "Yuri",
+							"surname": "Abramovich",
+							"avatar": "./images/yuri.jpg"
+						},
+						{
+							"name": "Ivan",
+							"surname": "Bilous",
+							"avatar": "./images/ivan.jpg"
+						}
+					],
+					"place": "Lviv Shevchenka 110 St."
+				},
+				{
+					"nameEvent": "Web UI Meet-UP Chernivtsi",
+					"dateTime": "09 AUG",
+					"speakers": [{
+							"name": "Andrew",
+							"surname": "Kuzmichov",
+							"avatar": "./images/andr.jpg"
+						},
+						{
+							"name": "Yuri",
+							"surname": "Abramovich",
+							"avatar": "./images/yuri.jpg"
+						},
+						{
+							"name": "Ivan",
+							"surname": "Bilous",
+							"avatar": "./images/ivan.jpg"
+						}
+					],
+					"place": "Chernivtsi Ruska 122 St.",
+					"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae at cumque dignissimos ex ratione, corporis natus sapiente vel ullam accusamus!"
+				},
+				{
+					"nameEvent": "Magento Meet-UP Lviv",
+					"dateTime": "12 SEP",
+					"speakers": [{
+							"name": "Andrew",
+							"surname": "Kuzmichov",
+							"avatar": "./images/andr.jpg"
+						},
+						{
+							"name": "Yuri",
+							"surname": "Abramovich",
+							"avatar": "./images/yuri.jpg"
+						},
+						{
+							"name": "Ivan",
+							"surname": "Bilous",
+							"avatar": "./images/ivan.jpg"
+						}
+					],
+					"place": "Lviv Shevchenka 110 St.",
+					"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae at cumque dignissimos ex ratione, corporis natus sapiente vel ullam accusamus!"
+				}
+			]
+		},
+		{
+			"year": 2017,
+			"events": [{
+					"nameEvent": "Dev Ops Meet-UP Chernivtsi",
+					"dateTime": "12 SEP",
+					"speakers": [{
+							"name": "Andrew",
+							"surname": "Kuzmichov",
+							"avatar": "./images/andr.jpg"
+						},
+						{
+							"name": "Yuri",
+							"surname": "Abramovich",
+							"avatar": "./images/yuri.jpg"
+						},
+						{
+							"name": "Ivan",
+							"surname": "Bilous",
+							"avatar": "./images/ivan.jpg"
+						}
+					],
+					"place": "Chernivtsi Holovna 12 St.",
+					"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae at cumque dignissimos ex ratione, corporis natus sapiente vel ullam accusamus!"
+				},
+				{
+					"nameEvent": "Web UI Meet-UP Chernivtsi",
+					"dateTime": "09 AUG",
+					"speakers": [{
+							"name": "Andrew",
+							"surname": "Kuzmichov",
+							"avatar": "./images/andr.jpg"
+						},
+						{
+							"name": "Yuri",
+							"surname": "Abramovich",
+							"avatar": "./images/yuri.jpg"
+						},
+						{
+							"name": "Ivan",
+							"surname": "Bilous",
+							"avatar": "./images/ivan.jpg"
+						}
+					],
+					"place": "Chernivtsi Ruska 122 St.",
+					"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae at cumque dignissimos ex ratione, corporis natus sapiente vel ullam accusamus!"
+				},
+				{
+					"nameEvent": "Magento Meet-UP Lviv",
+					"dateTime": "12 SEP",
+					"speakers": [{
+							"name": "Andrew",
+							"surname": "Kuzmichov",
+							"avatar": "./images/andr.jpg"
+						},
+						{
+							"name": "Yuri",
+							"surname": "Abramovich",
+							"avatar": "./images/yuri.jpg"
+						},
+						{
+							"name": "Ivan",
+							"surname": "Bilous",
+							"avatar": "./images/ivan.jpg"
+						},
+						{
+							"name": "Andrew",
+							"surname": "Kuzmichov",
+							"avatar": "./images/andr.jpg"
+						}
+					],
+					"place": "Lviv Shevchenka 110 St.",
+					"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae at cumque dignissimos ex ratione, corporis natus sapiente vel ullam accusamus!"
+				}
+			]
+		},
+		{
+			"year": 2018,
+			"events": [{
+					"nameEvent": "Dev Ops Meet-UP Chernivtsi",
+					"dateTime": "12 SEP",
+					"speakers": [{
+							"name": "Andrew",
+							"surname": "Kuzmichov",
+							"avatar": "./images/andr.jpg"
+						},
+						{
+							"name": "Yuri",
+							"surname": "Abramovich",
+							"avatar": "./images/yuri.jpg"
+						},
+						{
+							"name": "Ivan",
+							"surname": "Bilous",
+							"avatar": "./images/ivan.jpg"
+						}, {
+							"name": "Andrew",
+							"surname": "Kuzmichov",
+							"avatar": "./images/andr.jpg"
+						},
+						{
+							"name": "Yuri",
+							"surname": "Abramovich",
+							"avatar": "./images/yuri.jpg"
+						}
+					],
+					"place": "Chernivtsi Holovna 12 St.",
+					"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae at cumque dignissimos ex ratione, corporis natus sapiente vel ullam accusamus!"
+				},
+				{
+					"nameEvent": "Web UI Meet-UP Chernivtsi",
+					"dateTime": "09 AUG",
+					"speakers": [{
+							"name": "Andrew",
+							"surname": "Kuzmichov",
+							"avatar": "./images/andr.jpg"
+						},
+						{
+							"name": "Yuri",
+							"surname": "Abramovich",
+							"avatar": "./images/yuri.jpg"
+						},
+						{
+							"name": "Andrew",
+							"surname": "Kuzmichov",
+							"avatar": "./images/andr.jpg"
+						},
+						{
+							"name": "Yuri",
+							"surname": "Abramovich",
+							"avatar": "./images/yuri.jpg"
+						},
+						{
+							"name": "Ivan",
+							"surname": "Bilous",
+							"avatar": "./images/ivan.jpg"
+						}
+					],
+					"place": "Chernivtsi Ruska 122 St.",
+					"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae at cumque dignissimos ex ratione, corporis natus sapiente vel ullam accusamus!"
+				},
+				{
+					"nameEvent": "Dev Ops Meet-UP Chernivtsi",
+					"dateTime": "12 SEP",
+					"speakers": [{
+							"name": "Andrew",
+							"surname": "Kuzmichov",
+							"avatar": "./images/andr.jpg"
+						},
+						{
+							"name": "Yuri",
+							"surname": "Abramovich",
+							"avatar": "./images/yuri.jpg"
+						},
+						{
+							"name": "Ivan",
+							"surname": "Bilous",
+							"avatar": "./images/ivan.jpg"
+						}, {
+							"name": "Andrew",
+							"surname": "Kuzmichov",
+							"avatar": "./images/andr.jpg"
+						},
+						{
+							"name": "Andriy",
+							"surname": "Andruhovich",
+							"avatar": "./images/yuri.jpg"
+						}
+					],
+					"place": "Chernivtsi Holovna 12 St.",
+					"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae at cumque dignissimos ex ratione, corporis natus sapiente vel ullam accusamus!"
+				}
+			]
+		}
+	]
