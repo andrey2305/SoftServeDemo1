@@ -36,7 +36,7 @@ function getYearForCard(date){
 }
 
 function getDateForModal(date){
-  listMonth = ['JUN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'];
+  const listMonth = ['JUN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'];
   date = date.split('-');
   let day = date[2];
   let month = date[1];

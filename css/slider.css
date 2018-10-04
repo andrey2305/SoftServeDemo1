@@ -151,9 +151,6 @@ input::-webkit-inner-spin-button {
   pointer-events: none;
 }
 
-
-/***************************************************/
-
 /******************Cards Years*********************/
 .main{
 	position: relative;
@@ -210,11 +207,6 @@ input::-webkit-inner-spin-button {
 	-moz-backface-visibility: hidden;
 }
 
-
-/* .inner{
-	transform: translatez(80px) scale(.9);
-} */
-
 .slick-current .sl__slide-front,
 .slick-current .sl__slide-back{
   box-shadow: 0 10px 20px rgba(0,0,0,0.45), 0 6px 6px rgba(0,0,0,0.42);
@@ -222,7 +214,6 @@ input::-webkit-inner-spin-button {
 
 .sl__slide-front{
   color: rgba(199,85,74, 1);
-  /* background: rgba(53,52,57, 1); */
   background: rgb(250,250,250);
 }
 
@@ -242,4 +233,3 @@ input::-webkit-inner-spin-button {
 .slick-current:hover .sl__slide-back{
 	transform: rotateY(360deg);
 }
-/**************************************************/

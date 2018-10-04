@@ -1,6 +1,5 @@
 function slickCenter(data) {
 let item_length = $('.center > div').length;
-//console.log(item_length);
 
 $('.center').slick({
 	centerMode: true,
@@ -59,7 +58,6 @@ $('.center').slick({
 	]
 });
 $('.center').slick('slickGoTo', item_length, true);
-
 
 $('.search-btn').click( (e) => {
 	e.preventDefault();
