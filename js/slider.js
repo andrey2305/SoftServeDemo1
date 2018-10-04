@@ -59,6 +59,12 @@ $('.center').slick({
 });
 $('.center').slick('slickGoTo', item_length, true);
 
+$('.slick-arrow').click( (e) => {
+	e.preventDefault();
+	let year = document.getElementById('search-input');
+	year.value = "";
+});
+
 $('.search-btn').click( (e) => {
 	e.preventDefault();
 	let maxYear = data[data.length-1].year;
